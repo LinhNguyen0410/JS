@@ -1,0 +1,1 @@
+var csl = console.log

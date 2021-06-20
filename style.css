@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h3 {
+  font-size: 50px;
+}
+#number{
+  display: flex;
+  width: 200px;
+  height: 30px;
+  margin: 50px auto;
+}
+#demo{
+  text-align: center;
+}
+#submitBtn{
+  display: flex;
+  margin: 10px auto;
+  padding: 5px  ;
+}
